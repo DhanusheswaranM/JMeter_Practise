@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 ﻿userid,password,repeatpassword,fname,lname,email,phone,ad1,ad2,city,state,zip,country
 Test011,TestDemo102,TestDemo10,TestDemo10,M,TestDemo10gmail.com,45634563,salem,salem,salem,TN,636044,India
 Test012,TestDemo111,TestDemo11,TestDemo11,G,TestDemo11gmail.com,485637485,chrnnai,chrnnai,chrnnai,TN,63604,India
 Test013,TestDemo121,TestDemo12,TestDemo12,Y,TestDemo12gmail.com,748563784,covai,covai,covai,TN,636048,India
 Test014,TestDemo131,TestDemo13,TestDemo13,W,TestDemo13gmail.com,7845678,thnkasi,thnkasi,thnkasi,TN,636045,India
 Test015,TestDemo141,TestDemo14,TestDemo14,W,TestDemo14gmail.com,74867,dubai,dubai,dubai,TN,6360442,India
+=======
+﻿userid,password,repeatpassword,fname,lname,email,phone,ad1,ad2,city,state,zip,country
+Test011,TestDemo102,TestDemo10,TestDemo10,M,TestDemo10gmail.com,45634563,salem,salem,salem,TN,636044,India
+Test012,TestDemo111,TestDemo11,TestDemo11,G,TestDemo11gmail.com,485637485,chrnnai,chrnnai,chrnnai,TN,63604,India
+Test013,TestDemo121,TestDemo12,TestDemo12,Y,TestDemo12gmail.com,748563784,covai,covai,covai,TN,636048,India
+Test014,TestDemo131,TestDemo13,TestDemo13,W,TestDemo13gmail.com,7845678,thnkasi,thnkasi,thnkasi,TN,636045,India
+Test015,TestDemo141,TestDemo14,TestDemo14,W,TestDemo14gmail.com,74867,dubai,dubai,dubai,TN,6360442,India
+>>>>>>> 2bcff36ffc530665472244242c4c1538d85c570c
